@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Entities\bin\Debug\Programming_Languages.Entities.dll.config
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Entities\bin\Debug\Programming_Languages.Entities.dll
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Entities\bin\Debug\Programming_Languages.Entities.pdb
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Entities\obj\Debug\Programming_Languages.Entities.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Entities\obj\Debug\Programming_Languages.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Entities\obj\Debug\Programming_Languages.Entities.csproj.CopyComplete
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Entities\obj\Debug\Programming_Languages.Entities.dll
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Entities\obj\Debug\Programming_Languages.Entities.pdb

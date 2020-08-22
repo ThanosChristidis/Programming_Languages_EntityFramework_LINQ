@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\bin\Debug\Programming_Languages.Database.dll.config
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\bin\Debug\Programming_Languages.Database.dll
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\bin\Debug\Programming_Languages.Database.pdb
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\bin\Debug\Programming_Languages.Entities.dll
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\bin\Debug\Programming_Languages.Entities.pdb
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\bin\Debug\Programming_Languages.Entities.dll.config
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\obj\Debug\Programming_Languages.Database.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\obj\Debug\Programming_Languages.Database.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\obj\Debug\Programming_Languages.Database.csproj.CopyComplete
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\obj\Debug\Programming_Languages.Database.dll
+C:\Users\User\source\repos\Programming_Languages\Programming_Languages.Database\obj\Debug\Programming_Languages.Database.pdb
